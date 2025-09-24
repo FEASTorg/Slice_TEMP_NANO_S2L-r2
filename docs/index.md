@@ -1,6 +1,6 @@
 ---
-title: "Slice TEMP Documentation" # template: ensure this gets updated when copying
-description: "Overview and entry page for Slice TEMP project documentation." # template: ensure this gets updated when copying
+title: "Slice TEMP NANO S2L r2 Documentation" # template: ensure this gets updated when copying
+description: "Overview and entry page for Slice TEMP NANO S2L r2 project documentation." # template: ensure this gets updated when copying
 nav_exclude: true
 ---
 
