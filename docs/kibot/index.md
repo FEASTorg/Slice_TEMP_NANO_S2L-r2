@@ -4,7 +4,7 @@ description: "Index for KiBot-generated PCB artifacts."
 layout: "page"
 ---
 
-These are the docs & KiBot Outputs for Slice TEMP
+These are the docs & KiBot Outputs for Slice TEMP NANO S2L r2
 
 The following files were generated from the latest PCB build:
 
@@ -14,4 +14,4 @@ The following files were generated from the latest PCB build:
 - [BREAD_Slice-bom.html](./BREAD_Slice-bom.html)
 - [BREAD_Slice-ibom.html](./BREAD_Slice-ibom.html)
 
-_Last updated automatically on 2025-09-24 at 14:58:11 UTC by KiBot via GitHub Actions._
+_Last updated automatically on 2025-09-24 at 15:18:31 UTC by KiBot via GitHub Actions._
